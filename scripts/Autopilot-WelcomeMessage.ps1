@@ -67,6 +67,12 @@ $localizedMessages = @{
         "ButtonReboot" = "Riavvia"
         "ButtonLater" = "Più tardi"
     }
+    "SV" = @{
+        "MessageHeader" = "Välkommen till din nya Enhet"
+        "MessageText" = "Din enhet är nästan klar. &#10;Den behöver bara en omstart för att tillämpa några sista ändringar. &#10;Tryck på *Starta om* för att starta om nu eller *Senare* för att skjuta upp det i 15 minuter."
+        "ButtonReboot" = "Starta om"
+        "ButtonLater" = "Senare"
+    }
 }
 
 # Detect system language
