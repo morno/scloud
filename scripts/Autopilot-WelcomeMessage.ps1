@@ -63,9 +63,15 @@ $localizedMessages = @{
     }
     "IT" = @{
         "MessageHeader" = "Benvenuto nel tuo nuovo dispositivo"
-        "MessageText" = "Il tuo dispositivo è quasi pronto. &#10;È necessario solo un riavvio per applicare le ultime modifiche. &#10;Premi *Riavvia* per riavviare ora o *Più tardi* per posticipare di 15 minuti."
+        "MessageText" = "´"
         "ButtonReboot" = "Riavvia"
         "ButtonLater" = "Più tardi"
+    }
+   "SV" = @{
+        "MessageHeader" = "Välkommen till din nya Enhet"
+        "MessageText" = "Din enhet är nästan klar. &#10;Den behöver bara en omstart för att tillämpa några sista ändringar. &#10;Tryck på *Starta om* för att starta om nu eller *Senare* för att skjuta upp det i 15 minuter."
+        "ButtonReboot" = "Starta om"
+        "ButtonLater" = "Senare"
     }
 }
 
